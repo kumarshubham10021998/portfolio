@@ -1,32 +1,39 @@
 export const products = [
   {
     id: 1,
-    img: "https://www.website.com/img/skin/pagebuilder/webp/img_hero.webp",
-    link: "https://www.website.com/?source=SC&country=IN",
+    title:"Excel",
+    img: "https://www.skillrary.com/uploads/blog/24591612867077.png",
+    link: "https://www.youtube.com/playlist?list=PLWPirh4EWFpEpO6NjjWLbKSCb-wx3hMql",
+
   },
   {
     id: 2,
-    img: "https://image.shutterstock.com/image-photo/book-stack-on-wood-desk-260nw-1017025384.jpg",
-    link: "https://en.wikipedia.org/wiki/Developer",
+    title:"JavaScript",
+    img: "https://www.tutorialrepublic.com/lib/images/javascript-illustration.png",
+    link: "https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL",
   },
   {
     id: 3,
-    img: "https://cdn.who.int/media/images/default-source/mca/mca-covid-19/coronavirus-2.tmb-1024v.jpg?sfvrsn=4dba955c_12",
-    link: "https://covid-19updatedaily.netlify.app/",
+    title:"C Language",
+    img: "https://nareshit.com/wp-content/uploads/2018/08/C-Programming-online-training-nareshit.jpg",
+    link: "https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR",
   },
   {
     id: 4,
-    img: "https://pbs.twimg.com/profile_images/1263674349032218625/l2-UmPuj_400x400.jpg",
-    link: "https://uat.rupyz.com/",
+    title:"ReactJs",
+    img: "https://www.webrexstudio.com/wp-content/uploads/2019/05/react-js-image.png",
+    link: "https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3",
   },
   {
     id: 5,
-    img: "https://www.elegantthemes.com/blog/wp-content/uploads/2017/07/quote-bubbles-1.jpg",
-    link: "https://shubham-quote-generator.netlify.app/",
+    title:"HTML , CSS",
+    img: "https://miro.medium.com/max/1200/1*l4xICbIIYlz1OTymWCoUTw.jpeg",
+    link: "https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg",
   },
   {
     id: 6,
-    img: "https://reactjsexample.com/content/images/2021/10/Screenshot--35-.png",
-    link: "https://shubham-textutils.netlify.app/",
+    title:"Node js",
+    img: "https://buddy.works/guides/covers/test-nodejs-app/share-nodejs-logo.png",
+    link: "https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8",
   },
 ];

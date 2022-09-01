@@ -6,17 +6,17 @@ const ProductList = () => {
   return (
     <div className="pl">
       <div className="pl-texts">
-        <h1 className="pl-title">Create & inspire. It's My Project</h1>
-        <p className="pl-desc">
-          it is a creative portfolio that my work has been waiting for.
-          Beautiful homes, stunning portfolio styles & a whole lot more awaits
-          inside.
-        </p>
+        <h1 className="pl-title text-primary">
+          Start Learning From The Best
+          Our Top Courses</h1>
+        
       </div>
       <div className="pl-list">
         {products.map((item) => (
-          <Product key={item.id} img={item.img} link={item.link} />
+          <Product key={item.id} img={item.img} link={item.link} title={item.title}/>
+          
         ))}
+        
       </div>
     </div>
   );
